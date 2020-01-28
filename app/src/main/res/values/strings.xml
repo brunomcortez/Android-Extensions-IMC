@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="seu_imc">Seu IMC é: %1$s</string>
+    <string name="magreza">Abaixo do peso</string>
+    <string name="normal">Peso normal</string>
+    <string name="sobre_peso">Você está sobrepeso</string>
+    <string name="obesidade_grau_1">Você está com obesidade grau I</string>
+    <string name="obesidade_grau_2">Você está com obesidade grau II</string>
+    <string name="obesidade_grau_3">Você está com obesidade grau III</string>
+</resources>
